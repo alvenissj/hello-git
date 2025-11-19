@@ -1,0 +1,42 @@
+[33md957282[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: merge login: Fast-forward
+[33me85ad1c[m HEAD@{1}: checkout: moving from login to main
+[33md957282[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: Login V2 corregido
+[33me85ad1c[m HEAD@{3}: checkout: moving from main to login
+[33me85ad1c[m HEAD@{4}: merge login: Fast-forward
+[33ma614919[m HEAD@{5}: checkout: moving from login to main
+[33me85ad1c[m HEAD@{6}: checkout: moving from main to login
+[33ma614919[m HEAD@{7}: checkout: moving from login to main
+[33me85ad1c[m HEAD@{8}: reset: moving to HEAD
+[33me85ad1c[m HEAD@{9}: commit: Git Login V2
+[33mcdba718[m HEAD@{10}: checkout: moving from main to login
+[33ma614919[m HEAD@{11}: checkout: moving from login to main
+[33mcdba718[m HEAD@{12}: reset: moving to HEAD
+[33mcdba718[m HEAD@{13}: commit (merge): Corrección del conflicto
+[33m9894c1c[m HEAD@{14}: checkout: moving from main to login
+[33ma614919[m HEAD@{15}: commit: Git 3 V3
+[33mf8c78e4[m HEAD@{16}: checkout: moving from login to main
+[33m9894c1c[m HEAD@{17}: commit: Git 3 Login
+[33m37668bd[m HEAD@{18}: merge main: Merge made by the 'ort' strategy.
+[33md99de20[m HEAD@{19}: checkout: moving from main to login
+[33mf8c78e4[m HEAD@{20}: commit: Git 3 V2
+[33m09c0645[m HEAD@{21}: checkout: moving from login to main
+[33md99de20[m HEAD@{22}: commit: Este es mi login
+[33m09c0645[m HEAD@{23}: checkout: moving from main to login
+[33m09c0645[m HEAD@{24}: cherry-pick: Este es mi quinto commit
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{25}: checkout: moving from main to main
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{26}: checkout: moving from ac3a2575f16d0e56e09b248a3ebd5ff49b6565c4 to main
+[33mac3a257[m HEAD@{27}: checkout: moving from main to ac3a257
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{28}: checkout: moving from 9c06ea6eb1cd62cba5584c8df104146276dd802b to main
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{29}: checkout: moving from ac3a2575f16d0e56e09b248a3ebd5ff49b6565c4 to tags/clase_1
+[33mac3a257[m HEAD@{30}: commit: Este es mi quinto commit
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{31}: checkout: moving from 755ff0448daae35e1194f6480419bd009f2b4263 to 9c06ea6
+[33m755ff04[m HEAD@{32}: reset: moving to 755ff04
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{33}: checkout: moving from 21c2e8cc3d06aa81aead5a6fa47b8cea2311753d to 9c06ea6
+[33m21c2e8c[m HEAD@{34}: checkout: moving from 9c06ea6eb1cd62cba5584c8df104146276dd802b to 21c2e8c
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{35}: checkout: moving from 21c2e8cc3d06aa81aead5a6fa47b8cea2311753d to 9c06ea6
+[33m21c2e8c[m HEAD@{36}: checkout: moving from main to 21c2e8cc3d06aa81aead5a6fa47b8cea2311753d
+[33m9c06ea6[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m HEAD@{37}: commit: Se añade el nuevo .gitignore
+[33m9e5a9d4[m HEAD@{38}: commit: Se actualiza el texto del primer commit
+[33m755ff04[m HEAD@{39}: reset: moving to HEAD
+[33m755ff04[m HEAD@{40}: commit: Este es mi segundo Commit
+[33m21c2e8c[m HEAD@{41}: commit (initial): Este es mi primer Commit
